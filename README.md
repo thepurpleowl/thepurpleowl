@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Surya, a M.Tech Research student at [CSA, IISc](https://www.csa.iisc.ac.in/)! I live in Bangalore and love building tools. To know more about visit my [LinkedIn profile](https://www.linkedin.com/in/suryaprakashsahu/).
+
+Thanks for stopping by!
+
+
 <!--
 **thepurpleowl/thepurpleowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
