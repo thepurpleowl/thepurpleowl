@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Surya, a M.Tech Research student at [CSA, IISc](https://www.csa.iisc.ac.in/)! I live in Bangalore and love building tools. You can contact me on my [LinkedIn profile](https://www.linkedin.com/in/suryaprakashsahu/).
+I'm Surya, a M.Tech Research student at [CSA, IISc](https://www.csa.iisc.ac.in/)! I live in Bangalore and love building things with code. You can contact me on [LinkedIn](https://www.linkedin.com/in/suryaprakashsahu/).
 
 Thanks for stopping by!!
 
