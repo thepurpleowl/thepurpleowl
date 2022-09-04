@@ -3,7 +3,7 @@
 ### Hi !! I'm Surya 👋
 
 M.Tech Research student at [CSA, IISc](https://www.csa.iisc.ac.in/)  
-I work on problems involving data engineering, preferably with Machine Learning techniques.  
+I like to work on problems involving data, preferably with Machine Learning techniques. Currently, I am working on Language Models for Code.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaprakashsahu/)](https://www.linkedin.com/in/suryaprakashsahu/)	
